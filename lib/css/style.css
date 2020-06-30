@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+nav li a {
+  color: #fff !important;
+}
+
+.portfolio {
+  background-color: #E9ECEF;
+}
+
+.portfolio h1 {
+  font-weight: 300;
+  font-size: 72px;
+  padding-top: 64px;
+  margin-bottom: 8px;
+  color: #212529;
+}
+
+.portfolio p {
+  font-weight: normal;
+  font-size: 16px;
+  color: #212529;
+  margin-bottom: 16px;
+}
+
+.portfolio button {
+  margin-bottom: 64px;
+}
+
+.portfolio .btn {
+  padding: 12px 20px;
+}
+
+.profile .card {
+  margin-top: 32px;
+}
+
+.table-inf table {
+  margin-top: 32px;
+  margin-bottom: 73px;
+}
+
+footer {
+  background-color: #F5F5F5;
+    padding: 16px 0;
+}
+
+footer span {
+  font-size: 16px;
+  line-height: 19px;
+  color: #6C757D;
+}
